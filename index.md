@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Currently, I am a Temporary Research Fellow at University Ca’ Foscari of Venice, dealing with static analysis by abstract interpretation and relational string analysis.
+I am a Temporary Research Fellow at University Ca' Foscari of Venice, dealing with static analysis by abstract interpretation and relational string analysis.
 
 ## <a name="cv"></a>Short Bio
 I received the Bachelor Degree in Computer Science in July 2014 and the Master Degree in Computer Science and Engineering (Computer Systems Security curriculum) in July 2016, both from the University of Verona. In Summer 2016, I was an UROP Student in Imperial College London, under the supervision of Prof. Sergio Maffeis. I joined the University of Verona in October 2016, as PhD student in Computer Science, under the supervision of Prof. Isabella Mastroeni and I concluded the PhD program in October 2019. I will defend my PhD thesis, named "Taming Strings in Dynamic Languages – An Abstract Interpretation-based Static Analysis Approach" in May 2020.
