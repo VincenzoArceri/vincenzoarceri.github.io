@@ -59,7 +59,7 @@ My main research interests include static program analysis, string analysis and 
   </tr>
 </table>
 
-## <a name="talks"></a>TALKS
+## <a name="talks"></a>Talks
 
 ### 2020
 
