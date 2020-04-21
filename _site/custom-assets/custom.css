@@ -1,0 +1,54 @@
+.headerList {
+	list-style: none;
+	height: auto;
+	background: inherit;
+	border: none;
+	width: auto;
+}
+
+.headerList li {
+	float: none;
+	width: auto;
+	border-right: none;
+	height: auto;
+}
+
+.headerList li a {
+	display: inline;
+}
+
+.headerList li i {
+	margin-right: 10px;
+	width: 14px;
+}
+
+#backToTopBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #393939; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 5px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 15px; /* Increase font size */
+  width: 30px;
+  height: 30px;
+}
+
+#backToTopBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#contactPhoto {
+	height: 250px;
+	margin-bottom: 20px;
+}
