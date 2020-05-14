@@ -65,7 +65,7 @@ My main research interests include static program analysis, string analysis and 
 <table>
   <tr>
     <td>March</td>
-    <td>A Sound Abstract Interpreter for Dynamic Code, SAC 2020, Brno, Germany (online)</td>
+    <td>A Sound Abstract Interpreter for Dynamic Code, SAC 2020, Brno, Czech Republic (online)</td>
   </tr>
 </table>
 
