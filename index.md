@@ -16,6 +16,10 @@ My main research interests include static program analysis, string analysis and 
 ### 2020
 
 <table>
+	tr>
+    <td valign="top"><b>AM20</b></td>
+    <td>V. Arceri, I. Mastroeni, S. Xu <i>Static Analysis for ECMAScript String Manipulation Programs</i>, in Applied Science, SI: Static Analysis Techniques: Recent Advances and New Horizons, 2020 <a href="">[to be published]</a></td>
+  </tr>
  	<tr>
     <td valign="top"><b>AM20</b></td>
     <td>V. Arceri, I. Mastroeni <i>A Sound Abstract Interpreter for Dynamic Code</i>, in Proceedings of the 35th ACM/SIGAPP Symposium On Applied Computing, SAC 2020, Brno, Czech Republic March 30 - April 3, 2020 <a href="https://dl.acm.org/doi/abs/10.1145/3341105.3373964">[link]</a></td>
