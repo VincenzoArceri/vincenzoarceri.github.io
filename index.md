@@ -31,7 +31,7 @@ My main research interests include static program analysis, string analysis and 
 <table>
  	<tr>
     <td valign="top"><b>AP19</b></td>
-    <td>V. Arceri, M. Pasqua, I. Mastroeni <i>An Abstract Domain for Objects in Dynamic Programming languages</i>, in informal Proceedings of the 8th International Workshop on Numerical and Symbolic Abstract Domains, NSAD 2019, Porto, Portugal, October 8, 2019 <a href="https://staticanalysis.org/nsad2019/papers/NSAD2019_paper_2_WM.pdf">[link]</a></td>
+    <td>V. Arceri, M. Pasqua, I. Mastroeni <i>An Abstract Domain for Objects in Dynamic Programming languages</i>, in informal Proceedings of the 8th International Workshop on Numerical and Symbolic Abstract Domains, NSAD 2019, Porto, Portugal, October 8, 2019 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-54997-8_9">[link]</a></td>
   </tr>
 
   <tr>
