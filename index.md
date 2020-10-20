@@ -18,7 +18,7 @@ My main research interests include static program analysis, string analysis and 
 <table>
   <tr>
    <td valign="top"><b>[j2]</b></td>
-    <td>V. Arceri, I. Mastroeni <i>Analyzing Dynamic Code: A Sound Abstract Interpreter for evil eval</i>, in ACM Transaction on Privacy and Security, 2020. To appear. </td>
+    <td>V. Arceri, I. Mastroeni <i>Analyzing Dynamic Code: A Sound Abstract Interpreter for evil eval</i>, in ACM Transactions on Privacy and Security, 2020. To appear. </td>
   </tr>
 	<tr>
     <td valign="top"><b>[j1]</b></td>
