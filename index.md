@@ -2,10 +2,10 @@
 layout: default
 ---
 
-I am currently a Research Fellow (fixed-term) in the Department of Environmental Sciences, Informatics and Statistics at the Ca' Foscari University of Venice, dealing with static analysis by abstract interpretation and relational string analysis.
+I am currently a Postdoctoral researcher (fixed-term) in the Department of Environmental Sciences, Informatics and Statistics at the Ca' Foscari University of Venice, dealing with static analysis of Go language for blockchain applications and relational string analysis.
 
 ## <a name="cv"></a>Short Bio
-I have a Bachelor Degree in Computer Science (July 2014) and a Master Degree in Computer Science and Engineering – Computer Systems Security curriculum – (July 2016), both issued by the University of Verona. I was an UROP Student at the Imperial College London (Summer 2016), under the supervision of Prof. Sergio Maffeis. I joined the University of Verona in October 2016 as PhD student in Computer Science, under the supervision of Prof. Isabella Mastroeni and I got the PhD in May 2020, defending my PhD thesis titled “Taming Strings in Dynamic Languages – An Abstract Interpretation-based Static Analysis Approach”. Currently, I am a Research Fellow (fixed-term) at the Ca' Foscari University of Venice.
+I have a Bachelor Degree in Computer Science (July 2014) and a Master Degree in Computer Science and Engineering – Computer Systems Security curriculum – (July 2016), both issued by the University of Verona. I was an UROP Student at the Imperial College London (Summer 2016), under the supervision of Prof. Sergio Maffeis. I joined the University of Verona in October 2016 as PhD student in Computer Science, under the supervision of Prof. Isabella Mastroeni and I got the PhD in May 2020, defending my PhD thesis titled “Taming Strings in Dynamic Languages – An Abstract Interpretation-based Static Analysis Approach”. Currently, I am a Postdoctoral researcher (fixed-term) at the Ca' Foscari University of Venice.
 
 My main research interests include static program analysis, string analysis and verification (in particular for dynamic languages), abstract interpretation and, more in general, formal methods for security programs.
 
