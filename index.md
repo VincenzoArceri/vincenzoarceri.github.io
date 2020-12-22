@@ -12,6 +12,14 @@ My main research interests include static program analysis, string analysis and 
 
 ## <a name="publications"></a>Publications
 
+### 2021
+<table>
+<tr>
+   <td valign="top"><b>[c6]</b></td>
+    <td>L.Negrini, V. Arceri, P. Ferrara, A. Cortesi <i>Twinning Automata and Regular Expressions for String Static Analysis</i>, in Proceedings of the 22nd International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2021, Online, January 17-22, 2021. To appear. </td>
+  </tr>
+  <tr>
+</table>
 
 ### 2020
 
