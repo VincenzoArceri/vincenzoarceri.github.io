@@ -9,6 +9,15 @@ I have a Bachelor Degree in Computer Science (July 2014) and a Master Degree in 
 
 My main research interests include static program analysis, string analysis and verification (in particular for dynamic languages), abstract interpretation and, more in general, formal methods for security programs.
 
+## <a name="publications"></a>Projects
+
+### LiSA
+LiSA (Library for Static Analysis) eases the creation and implementation of static analyzers based on the Abstract Interpretation theory. LiSA provides an analysis engine that works on a generic and extensible control flow graph representation of the program to analyze. Abstract interpreters in LiSA are built for analyzing such representation, providing a unique analysis infrastructure for all the analyzers that will rely on it.
+
+Building an analyzer upon LiSA boils down to writing a parser for the language that one aims to analyze, translating the source code or the compiled code towards the control flow graph representation of LiSA. Then, simple checks iterating over the results provided by the semantic analyses of LiSA can be easily defined to translate semantic information into warnings that can be of value for the final user.
+
+LiSA is mantained by the <a href="https://ssv.dais.unive.it/">Software and System Verification group</a> @ Ca’ Foscari University of Venice, Italy, and it is distributed under the MIT license, and it is available on <a href="https://github.com/UniVE-SSV/lisa">GitHub</a>.
+
 
 ## <a name="publications"></a>Publications
 
