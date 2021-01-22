@@ -14,19 +14,19 @@ My main research interests include static program analysis, string analysis and 
 
 ### 2021
 <table>
+	 <tr>
+   <td valign="top"><b>[j2]</b></td>
+    <td>V. Arceri, I. Mastroeni <i>Analyzing Dynamic Code: A Sound Abstract Interpreter for evil eval</i>, in ACM Transactions on Privacy and Security, 2021, Vol. 24, No. 2. <a href="https://dl.acm.org/doi/10.1145/3426470">[link]</a></td>
+  </tr>
 <tr>
    <td valign="top"><b>[c6]</b></td>
-    <td>L.Negrini, V. Arceri, P. Ferrara, A. Cortesi <i>Twinning Automata and Regular Expressions for String Static Analysis</i>, in Proceedings of the 22nd International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2021, Online, January 17-22, 2021. To appear. </td>
+    <td>L.Negrini, V. Arceri, P. Ferrara, A. Cortesi <i>Twinning Automata and Regular Expressions for String Static Analysis</i>, in Proceedings of the 22nd International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2021, Online, January 17-22, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-67067-2_13">[link]</a> </td>
   </tr>
 </table>
 
 ### 2020
 
 <table>
-  <tr>
-   <td valign="top"><b>[j2]</b></td>
-    <td>V. Arceri, I. Mastroeni <i>Analyzing Dynamic Code: A Sound Abstract Interpreter for evil eval</i>, in ACM Transactions on Privacy and Security, 2020. To appear. </td>
-  </tr>
 	<tr>
     <td valign="top"><b>[j1]</b></td>
     <td>V. Arceri, I. Mastroeni, S. Xu <i>Static Analysis for ECMAScript String Manipulation Programs</i>, in Applied Science, SI: Static Analysis Techniques: Recent Advances and New Horizons, 2020 <a href="https://www.mdpi.com/2076-3417/10/10/3525">[link]</a></td>
