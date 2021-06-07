@@ -25,12 +25,12 @@ LiSA is mantained by the <a href="https://ssv.dais.unive.it/">Software and Syste
 <table>
 		 <tr>
    <td valign="top"><b>[c8]</b></td>
-    <td>P. Ferrara, L. Negrini, V. Arceri, A. Cortesi<i>Static Analysis for Dummies: Experiencing LiSA
+    <td>P. Ferrara, L. Negrini, V. Arceri, A. Cortesi <i>Static Analysis for Dummies: Experiencing LiSA
 </i>, To appear in Proceedings of 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2021, June 22th, 2021 <a href="https://dl.acm.org/doi/10.1145/3426470">[link]</a></td>
   </tr>
 	 <tr>
    <td valign="top"><b>[c7]</b></td>
-    <td>I. Mastroeni, V. Arceri<i>Improving dynamic code analysis by code abstraction
+    <td>I. Mastroeni, V. Arceri <i>Improving dynamic code analysis by code abstraction
 </i>, To appear in Proceedings of 9th International Workshop on Verification and Program Transformation, VPT 2021, March 27th and 28th, 2021 <a href="https://dl.acm.org/doi/10.1145/3426470">[link]</a></td>
   </tr>
 	 <tr>
