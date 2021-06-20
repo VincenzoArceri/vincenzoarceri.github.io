@@ -26,7 +26,7 @@ LiSA is mantained by the <a href="https://ssv.dais.unive.it/">Software and Syste
 		 <tr>
    <td valign="top"><b>[c8]</b></td>
     <td>P. Ferrara, L. Negrini, V. Arceri, A. Cortesi <i>Static Analysis for Dummies: Experiencing LiSA
-</i>, To appear in Proceedings of 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2021, June 22th, 2021 <a href="https://dl.acm.org/doi/10.1145/3426470">[link]</a></td>
+</i>, in Proceedings of 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2021, June 22th, 2021 <a href="https://dl.acm.org/doi/10.1145/3460946.3464316">[link]</a></td>
   </tr>
 	 <tr>
    <td valign="top"><b>[c7]</b></td>
