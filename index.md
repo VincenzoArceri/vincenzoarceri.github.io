@@ -94,6 +94,15 @@ LiSA is mantained by the <a href="https://ssv.dais.unive.it/">Software and Syste
 
 ## <a name="talks"></a>Talks
 
+### 2021
+
+<table>
+	<tr>
+    <td>June</td>
+    <td>Static Analysis for Dummies: Experiencing LiSA, SOAP@PLDI 2021 (online)</td>
+  </tr>
+</table>
+
 ### 2020
 
 <table>
