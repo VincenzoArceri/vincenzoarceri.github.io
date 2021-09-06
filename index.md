@@ -36,7 +36,7 @@ LiSA is mantained by the <a href="https://ssv.dais.unive.it/">Software and Syste
 	 <tr>
    <td valign="top"><b>[c6]</b></td>
     <td>I. Mastroeni, V. Arceri <i>Improving dynamic code analysis by code abstraction
-</i>, To appear in Proceedings of 9th International Workshop on Verification and Program Transformation, VPT 2021, March 27th and 28th, 2021 <a href="https://dl.acm.org/doi/10.1145/3426470">[link]</a></td>
+</i>, in Proceedings of 9th International Workshop on Verification and Program Transformation, VPT 2021, March 27th and 28th, 2021 <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?VPT2021.2">[link]</a></td>
   </tr>
 	 <tr>
    <td valign="top"><b>[j3]</b></td>
