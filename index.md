@@ -25,7 +25,7 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 <table>
 <tr>
    <td valign="top"><b>[c8]</b></td>
-    <td>V. Arceri, M.Olliaro, A. Cortesi, P. Ferrara <i>Relational String Abstract Domains</i>, to appear in Proceedings of the 23th International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2022, Philadelphia, January 16-19, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-030-67067-2_13">[link]</a> </td>
+    <td>V. Arceri, M.Olliaro, A. Cortesi, P. Ferrara <i>Relational String Abstract Domains</i>, In Proceedings of the 23th International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2022, Philadelphia, January 16-19, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-030-94583-1_2">[link]</a> </td>
   </tr>
 </table>
 ### 2021
