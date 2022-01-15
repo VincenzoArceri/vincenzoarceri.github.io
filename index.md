@@ -110,7 +110,7 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 
 <table>
   <tr>
-    <td>January</td>
+    <td>Jan</td>
     <td>Relational String Abstract Domains, VMCAI 2022 (online)</td>
   </tr>
 </table>
@@ -119,7 +119,7 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 
 <table>
 	<tr>
-    <td>June</td>
+    <td>Jun</td>
     <td>Static Analysis for Dummies: Experiencing LiSA, SOAP@PLDI 2021 (online)</td>
   </tr>
 </table>
@@ -132,7 +132,7 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
     <td>Taming Strings in Dynamic Languages – An Abstract Interpretation-based Static Analysis Approach, PhD Thesis defence (online)</td>
   </tr>
   <tr>
-    <td>March</td>
+    <td>Mar</td>
     <td>A Sound Abstract Interpreter for Dynamic Code, SAC 2020, Brno, Czech Republic (online)</td>
   </tr>
 </table>
@@ -141,11 +141,11 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 
 <table>
   <tr>
-    <td>November</td>
+    <td>Nov</td>
     <td>Completeness of Abstract Domains for String Analysis of JavaScript Programs, ICTAC 2019, Hammamet, Tunisia</td>
   </tr>
   <tr>
-    <td>April</td>
+    <td>Apr</td>
     <td>Static Program Analysis for String Manipulation Languages, VPT 2019, Genova, Italy</td>
   </tr>
 </table>
@@ -154,7 +154,7 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 
 <table>
   <tr>
-    <td>September</td>
+    <td>Sep</td>
     <td>Abstract Domains for Type Juggling, NSAD 2016, Edimburgh, Scotland</td>
   </tr>
 </table>
