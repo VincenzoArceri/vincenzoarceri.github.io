@@ -106,6 +106,15 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 
 ## <a name="talks"></a>Talks
 
+### 2022
+
+<table>
+  <tr>
+    <td>January</td>
+    <td>Relational String Abstract Domains, VMCAI 2022 (online)</td>
+  </tr>
+</table>
+
 ### 2021
 
 <table>
