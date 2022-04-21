@@ -23,6 +23,10 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 ## <a name="publications"></a>Publications
 ### 2022
 <table>
+  <tr>
+   <td valign="top"><b>[c9]</b></td>
+    <td>L. Olivieri, F. Tagliaferro, V. Arceri, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, To appear in Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17th, 2022. <a href="https://pldi22.sigplan.org/details/SOAP-2022-papers/4/Ensuring-Determinism-in-Blockchain-Software-with-GoLiSA-An-Industrial-Experience-Rep">[link]</a> </td>
+  </tr>
 <tr>
    <td valign="top"><b>[c8]</b></td>
     <td>V. Arceri, M.Olliaro, A. Cortesi, P. Ferrara <i>Relational String Abstract Domains</i>, In Proceedings of the 23th International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2022, Philadelphia, January 16-19, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-030-94583-1_2">[link]</a> </td>
