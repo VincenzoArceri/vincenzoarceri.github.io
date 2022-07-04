@@ -25,7 +25,7 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 <table>
   <tr>
    <td valign="top"><b>[c9]</b></td>
-    <td>L. Olivieri, F. Tagliaferro, V. Arceri, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, To appear in Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17th, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> </td>
+    <td>L. Olivieri, F. Tagliaferro, V. Arceri, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, In Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17th, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> </td>
   </tr>
 <tr>
    <td valign="top"><b>[c8]</b></td>
