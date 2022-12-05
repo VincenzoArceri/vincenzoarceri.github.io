@@ -23,14 +23,13 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 ## <a name="publications"></a>Publications
 ### 2022
 <table>
-    <tr>
-   <td valign="top"><b>[c10]</b></td>
-    <td>V. Arceri, I. Mastroeni, E. Zaffanella <i>Decoupling the Ascending and Descending Phases in Abstract Interpretation</i>, In Proceedings of 20th Asian Symposium on Programming Languages and Systems, APLAS 2022, Auckland, New Zealand, December 5, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> </td>
-  </tr>
-<tr>
   <tr>
    <td valign="top"><b>[c9]</b></td>
-    <td>L. Olivieri, F. Tagliaferro, V. Arceri, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, In Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> </td>
+    <td>V. Arceri, I. Mastroeni, E. Zaffanella <i>Decoupling the Ascending and Descending Phases in Abstract Interpretation</i>, In Proceedings of 20th Asian Symposium on Programming Languages and Systems, APLAS 2022, Auckland, New Zealand, December 5, 2022.<a href="https://link.springer.com/chapter/10.1007/978-3-031-21037-2_2?fbclid=IwAR3vB4EI3-6mFjXpBkctRYIrVXkVl5NU5rH9RyYf-2yDvu592VF7EMUnsek">[link]</a> </td>
+  </tr>
+  <tr>
+   <td valign="top"><b>[c9]</b></td>
+    <td>L. Olivieri, F. Tagliaferro, V. Arceri, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, In Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17th, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> </td>
   </tr>
 <tr>
    <td valign="top"><b>[c8]</b></td>
@@ -47,12 +46,12 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 		 <tr>
    <td valign="top"><b>[c7]</b></td>
     <td>P. Ferrara, L. Negrini, V. Arceri, A. Cortesi <i>Static Analysis for Dummies: Experiencing LiSA
-</i>, in Proceedings of 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2021, June 22, 2021 <a href="https://dl.acm.org/doi/10.1145/3460946.3464316">[link]</a></td>
+</i>, in Proceedings of 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2021, June 22th, 2021 <a href="https://dl.acm.org/doi/10.1145/3460946.3464316">[link]</a></td>
   </tr>
 	 <tr>
    <td valign="top"><b>[c6]</b></td>
     <td>I. Mastroeni, V. Arceri <i>Improving dynamic code analysis by code abstraction
-</i>, in Proceedings of 9th International Workshop on Verification and Program Transformation, VPT 2021, March 27-28, 2021 <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?VPT2021.2">[link]</a></td>
+</i>, in Proceedings of 9th International Workshop on Verification and Program Transformation, VPT 2021, March 27th and 28th, 2021 <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?VPT2021.2">[link]</a></td>
   </tr>
 	 <tr>
    <td valign="top"><b>[j3]</b></td>
