@@ -24,11 +24,11 @@ LiSA is maintained by the <a href="https://ssv.dais.unive.it/">Software and Syst
 ### 2022
 <table>
   <tr>
-   <td valign="top"><b>[c9]</b></td>
+   <td valign="top"><b>[c10]</b></td>
     <td>V. Arceri, I. Mastroeni, E. Zaffanella <i>Decoupling the Ascending and Descending Phases in Abstract Interpretation</i>, In Proceedings of 20th Asian Symposium on Programming Languages and Systems, APLAS 2022, Auckland, New Zealand, December 5, 2022.<a href="https://link.springer.com/chapter/10.1007/978-3-031-21037-2_2?fbclid=IwAR3vB4EI3-6mFjXpBkctRYIrVXkVl5NU5rH9RyYf-2yDvu592VF7EMUnsek">[link]</a> </td>
   </tr>
   <tr>
-   <td valign="top"><b>[c10]</b></td>
+   <td valign="top"><b>[c9]</b></td>
     <td>L. Olivieri, F. Tagliaferro, V. Arceri, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, In Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> </td>
   </tr>
 <tr>
