@@ -17,7 +17,7 @@ My main research interests include static program analysis, string analysis and 
 <table>
   <tr>
    <td valign="top"><b>2021 - now</b></td>
-    <td>Fundamentals of Programming within the Computer Science B.Sc. in University of Parma (15CFU, 120 hours, 1st year)</td>
+    <td>Fundamentals of Programming within the Computer Science B.Sc. in University of Parma (15CFU, 120 hours)</td>
   </tr>
 </table>
 
