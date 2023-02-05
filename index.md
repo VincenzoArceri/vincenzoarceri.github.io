@@ -10,6 +10,9 @@ Currently, I am an Assistant Professor (non-tenure) in the Department of Mathema
 
 My main research interests include static program analysis, string analysis and verification (in particular for dynamic languages), abstract interpretation and, more in general, formal methods for security programs.
 
+
+<b>I am always looking for strong and motivated students to work with me on static program analysis and verification. Ping me if interested!</b>
+
 ## <a name="teaching"></a>Teaching
 <table>
   <tr>
