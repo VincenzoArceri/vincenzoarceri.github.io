@@ -166,7 +166,7 @@ My main research interests include static program analysis, string analysis and 
   </tr>
 </table>
 
-## <a name="publications"></a>Projects
+## <a name="projects"></a>Projects
 
 ### LiSA
 LiSA (Library for Static Analysis) eases the creation and implementation of static analyzers based on the Abstract Interpretation theory. LiSA provides an analysis engine that works on a generic and extensible control flow graph representation of the program to analyze. Abstract interpreters in LiSA are built for analyzing such representation, providing a unique analysis infrastructure for all the analyzers that will rely on it.
