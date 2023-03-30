@@ -23,6 +23,14 @@ My main research interests include static program analysis, string analysis and 
 
 
 ## <a name="publications"></a>Publications
+
+### 2023
+<table>
+  <tr>
+   <td valign="top"><b>[c11]</b></td>
+    <td>V. Bonnici, V. Arceri, A. Diana, F. Bertini, E. Iotti, A. Levante, V. Bernini, E. Neviani, A. Dal Palù <i>BIOCHAIN: towards a platform for securely sharing microbiological data</i>, To appear in Proceedings of 27th International Database Engineered Applications Symposium, IDEAS 2023, Heraklion, Crete, Greece, May 5-7, 2023.<a href="https://conferences.sigappfr.org/ideas2023">[link]</a> </td>
+  </tr>
+</table>
 ### 2022
 <table>
   <tr>
