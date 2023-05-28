@@ -39,7 +39,7 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
   </tr>
   <tr>
    <td valign="top"><b>[c11]</b></td>
-    <td>V. Bonnici, <u>V. Arceri</u>, A. Diana, F. Bertini, E. Iotti, A. Levante, V. Bernini, E. Neviani, A. Dal Palù <i>BIOCHAIN: towards a platform for securely sharing microbiological data</i>, To appear in Proceedings of 27th International Database Engineered Applications Symposium, IDEAS 2023, Heraklion, Crete, Greece, May 5-7, 2023. <a href="https://conferences.sigappfr.org/ideas2023">[link]</a> 
+    <td>V. Bonnici, <u>V. Arceri</u>, A. Diana, F. Bertini, E. Iotti, A. Levante, V. Bernini, E. Neviani, A. Dal Palù <i>BIOCHAIN: towards a platform for securely sharing microbiological data</i> In Proceedings of 27th International Database Engineered Applications Symposium, IDEAS 2023, Heraklion, Crete, Greece, May 5-7, 2023. <a href="https://dl.acm.org/doi/10.1145/3589462.3589501">[link]</a> 
       <a href="papers/ideas2023.pdf">[pdf]</a> </td>
   </tr>
 </table>
