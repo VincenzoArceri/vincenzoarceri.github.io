@@ -33,8 +33,8 @@ My main research interests include static program analysis, string analysis and 
 
   <tr>
    <td valign="top"><b>[c12]</b></td>
-    <td><u>V. Arceri</u>, G. Dolcetti, E. Zaffanella <i>Speeding up Static Analysis with the Split Operator</i>, To appear in Proceedings of the 12th ACM SIGPLAN International Workshop on the 
-State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023. <a href="https://pldi23.sigplan.org/home/SOAP-2023#event-overview">[link]</a> 
+    <td><u>V. Arceri</u>, G. Dolcetti, E. Zaffanella <i>Speeding up Static Analysis with the Split Operator</i>, In Proceedings of the 12th ACM SIGPLAN International Workshop on the 
+State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023. <a href="https://dl.acm.org/doi/10.1145/3589250.3596141">[link]</a> 
       <a href="papers/soap2023.pdf">[pdf]</a> </td>
   </tr>
   <tr>
