@@ -28,7 +28,8 @@ My main research interests include static program analysis, string analysis and 
 <table>
     <tr>
    <td valign="top"><b>[c13]</b></td>
-    <td>L. Olivieri, L. Negrini, <u>V. Arceri</u>, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto<i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, To appear in Proceedings of the 37th European Conference on Object-Oriented Programming, ECOOP 2023, Seattle, WA, USA, July 17 - 21, 2023. <a href="https://2023.ecoop.org/track/ecoop-2023-papers">[link]</a></td>
+    <td>L. Olivieri, L. Negrini, <u>V. Arceri</u>, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto<i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, To appear in Proceedings of the 37th European Conference on Object-Oriented Programming, ECOOP 2023, Seattle, WA, USA, July 17 - 21, 2023. <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18216">[link]</a>
+      <a href="papers/ecoop2023.pdf">[pdf]</a></td>
   </tr>
 
   <tr>
