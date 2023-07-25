@@ -29,19 +29,19 @@ My main research interests include static program analysis, string analysis and 
 
   <tr>
    <td valign="top"><b>[bc3]</b></td>
-    <td>L. Negrini, <u>V. Arceri</u>, P. Ferrara, A. Cortesi, <i>LiSA: A Generic Framework for Multilanguage Static Analysis</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023 <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_2">[link]</a>
+    <td>L. Negrini, <u>V. Arceri</u>, P. Ferrara, A. Cortesi, <i>LiSA: A Generic Framework for Multilanguage Static Analysis</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023. <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_2">[link]</a>
     </td>
   </tr>
 
    <tr>
    <td valign="top"><b>[bc2]</b></td>
-    <td>E. Zaffanella, <u>V. Arceri</u>, <i>“Fixing” the Specification of Widenings</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023 <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_4">[link]</a>
+    <td>E. Zaffanella, <u>V. Arceri</u>, <i>“Fixing” the Specification of Widenings</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023. <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_4">[link]</a>
     </td>
   </tr>
 
   <tr>
    <td valign="top"><b>[bc1]</b></td>
-    <td>M. Olliaro, <u>V. Arceri</u>, A. Cortesi, P. Ferrara<i>Lifting String Analysis Domains</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023 <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_7">[link]</a>
+    <td>M. Olliaro, <u>V. Arceri</u>, A. Cortesi, P. Ferrara<i>Lifting String Analysis Domains</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023. <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_7">[link]</a>
     </td>
   </tr>
 
