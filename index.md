@@ -41,9 +41,15 @@ My main research interests include static program analysis, string analysis and 
 
   <tr>
    <td valign="top"><b>[bc1]</b></td>
-    <td>M. Olliaro, <u>V. Arceri</u>, A. Cortesi, P. Ferrara<i>Lifting String Analysis Domains</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023. <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_7">[link]</a>
+    <td>M. Olliaro, <u>V. Arceri</u>, A. Cortesi, P. Ferrara, <i>Lifting String Analysis Domains</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023. <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_7">[link]</a>
     </td>
   </tr>
+
+  <tr>
+   <td valign="top"><b>[j5]</b></td>
+    <td>L. Olivieri, L. Negrini, <u>V. Arceri</u>, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto<i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, Dagstuhl Artifacts Series, vol. 9, n. 2, 2023 <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18263">[link]</a></td>
+  </tr>
+
 
     <tr>
    <td valign="top"><b>[c13]</b></td>
