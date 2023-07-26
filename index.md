@@ -47,25 +47,25 @@ My main research interests include static program analysis, string analysis and 
 
   <tr>
    <td valign="top"><b>[j5]</b></td>
-    <td>L. Olivieri, L. Negrini, <u>V. Arceri</u>, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto<i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, Dagstuhl Artifacts Series, vol. 9, n. 2, 2023 <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18263">[link]</a></td>
+    <td>L. Olivieri, L. Negrini, <u>V. Arceri</u>, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto, <i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, Dagstuhl Artifacts Series, vol. 9, n. 2, 2023 <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18263">[link]</a></td>
   </tr>
 
 
     <tr>
    <td valign="top"><b>[c13]</b></td>
-    <td>L. Olivieri, L. Negrini, <u>V. Arceri</u>, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto<i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, In Proceedings of the 37th European Conference on Object-Oriented Programming, ECOOP 2023, Seattle, WA, USA, July 17 - 21, 2023. <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18216">[link]</a>
+    <td>L. Olivieri, L. Negrini, <u>V. Arceri</u>, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto, <i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, In Proceedings of the 37th European Conference on Object-Oriented Programming, ECOOP 2023, Seattle, WA, USA, July 17 - 21, 2023. <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18216">[link]</a>
       <a href="papers/ecoop2023.pdf">[pdf]</a></td>
   </tr>
 
   <tr>
    <td valign="top"><b>[c12]</b></td>
-    <td><u>V. Arceri</u>, G. Dolcetti, E. Zaffanella <i>Speeding up Static Analysis with the Split Operator</i>, In Proceedings of the 12th ACM SIGPLAN International Workshop on the 
+    <td><u>V. Arceri</u>, G. Dolcetti, E. Zaffanella, <i>Speeding up Static Analysis with the Split Operator</i>, In Proceedings of the 12th ACM SIGPLAN International Workshop on the 
 State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023. <a href="https://dl.acm.org/doi/10.1145/3589250.3596141">[link]</a> 
       <a href="papers/soap2023.pdf">[pdf]</a> </td>
   </tr>
   <tr>
    <td valign="top"><b>[c11]</b></td>
-    <td>V. Bonnici, <u>V. Arceri</u>, A. Diana, F. Bertini, E. Iotti, A. Levante, V. Bernini, E. Neviani, A. Dal Palù <i>BIOCHAIN: towards a platform for securely sharing microbiological data</i> In Proceedings of 27th International Database Engineered Applications Symposium, IDEAS 2023, Heraklion, Crete, Greece, May 5-7, 2023. <a href="https://dl.acm.org/doi/10.1145/3589462.3589501">[link]</a> 
+    <td>V. Bonnici, <u>V. Arceri</u>, A. Diana, F. Bertini, E. Iotti, A. Levante, V. Bernini, E. Neviani, A. Dal Palù, <i>BIOCHAIN: towards a platform for securely sharing microbiological data</i> In Proceedings of 27th International Database Engineered Applications Symposium, IDEAS 2023, Heraklion, Crete, Greece, May 5-7, 2023. <a href="https://dl.acm.org/doi/10.1145/3589462.3589501">[link]</a> 
       <a href="papers/ideas2023.pdf">[pdf]</a> </td>
   </tr>
 </table>
@@ -73,45 +73,45 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 <table>
   <tr>
    <td valign="top"><b>[c10]</b></td>
-    <td><u>V. Arceri</u>, I. Mastroeni, E. Zaffanella <i>Decoupling the Ascending and Descending Phases in Abstract Interpretation</i>, In Proceedings of 20th Asian Symposium on Programming Languages and Systems, APLAS 2022, Auckland, New Zealand, December 5, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-031-21037-2_2?fbclid=IwAR3vB4EI3-6mFjXpBkctRYIrVXkVl5NU5rH9RyYf-2yDvu592VF7EMUnsek">[link]</a> 
+    <td><u>V. Arceri</u>, I. Mastroeni, E. Zaffanella, <i>Decoupling the Ascending and Descending Phases in Abstract Interpretation</i>, In Proceedings of 20th Asian Symposium on Programming Languages and Systems, APLAS 2022, Auckland, New Zealand, December 5, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-031-21037-2_2?fbclid=IwAR3vB4EI3-6mFjXpBkctRYIrVXkVl5NU5rH9RyYf-2yDvu592VF7EMUnsek">[link]</a> 
       <a href="papers/aplas2022.pdf">[pdf]</a> </td>
   </tr>
   <tr>
    <td valign="top"><b>[c9]</b></td>
-    <td>L. Olivieri, F. Tagliaferro, <u>V. Arceri</u>, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, In Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> 
+    <td>L. Olivieri, F. Tagliaferro, <u>V. Arceri</u>, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin, <i>Ensuring Determinism in Blockchain Software with GoLiSA: An Industrial Experience Report</i>, In Proceedings of 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2022, June 17, 2022. <a href="https://dl.acm.org/doi/10.1145/3520313.3534658">[link]</a> 
       <a href="papers/soap2022.pdf">[pdf]</a></td>
   </tr>
 <tr>
    <td valign="top"><b>[c8]</b></td>
-    <td><u>V. Arceri</u>, M.Olliaro, A. Cortesi, P. Ferrara <i>Relational String Abstract Domains</i>, In Proceedings of the 23th International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2022, Philadelphia, January 16-19, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-030-94583-1_2">[link]</a> <a href="papers/vmcai2022.pdf">[pdf]</a></td>
+    <td><u>V. Arceri</u>, M.Olliaro, A. Cortesi, P. Ferrara, <i>Relational String Abstract Domains</i>, In Proceedings of the 23th International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2022, Philadelphia, January 16-19, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-030-94583-1_2">[link]</a> <a href="papers/vmcai2022.pdf">[pdf]</a></td>
   </tr>
 </table>
 ### 2021
 <table>
        <tr>
    <td valign="top"><b>[j4]</b></td>
-    <td><u>V. Arceri</u>, M. Olliaro, A. Cortesi, I. Mastroeni <i>Completeness of String Analysis for Dynamic Languages
+    <td><u>V. Arceri</u>, M. Olliaro, A. Cortesi, I. Mastroeni, <i>Completeness of String Analysis for Dynamic Languages
 </i>, in Information and Computation, 104791, 2021 <a href="https://www.sciencedirect.com/science/article/pii/S0890540121001073#se0120">[link]</a></td>
   </tr>
 		 <tr>
    <td valign="top"><b>[c7]</b></td>
-    <td>P. Ferrara, L. Negrini, <u>V. Arceri</u>, A. Cortesi <i>Static Analysis for Dummies: Experiencing LiSA
+    <td>P. Ferrara, L. Negrini, <u>V. Arceri</u>, A. Cortesi, <i>Static Analysis for Dummies: Experiencing LiSA
 </i>, in Proceedings of 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis, SOAP 2021, June 22th, 2021 <a href="https://dl.acm.org/doi/10.1145/3460946.3464316">[link]</a> 
 <a href="papers/soap2021.pdf">[pdf]</a></td>
   </tr>
 	 <tr>
    <td valign="top"><b>[c6]</b></td>
-    <td>I. Mastroeni, <u>V. Arceri</u> <i>Improving dynamic code analysis by code abstraction
+    <td>I. Mastroeni, <u>V. Arceri</u>, <i>Improving dynamic code analysis by code abstraction
 </i>, in Proceedings of 9th International Workshop on Verification and Program Transformation, VPT 2021, March 27 and 28, 2021 <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?VPT2021.2">[link]</a> 
 <a href="papers/vpt2021.pdf">[pdf]</a></td>
   </tr>
 	 <tr>
    <td valign="top"><b>[j3]</b></td>
-    <td><u>V. Arceri</u>, I. Mastroeni <i>Analyzing Dynamic Code: A Sound Abstract Interpreter for evil eval</i>, in ACM Transactions on Privacy and Security, 2021, Vol. 24, No. 2. <a href="https://dl.acm.org/doi/10.1145/3426470">[link]</a></td>
+    <td><u>V. Arceri</u>, I. Mastroeni, <i>Analyzing Dynamic Code: A Sound Abstract Interpreter for evil eval</i>, in ACM Transactions on Privacy and Security, 2021, Vol. 24, No. 2. <a href="https://dl.acm.org/doi/10.1145/3426470">[link]</a></td>
   </tr>
 <tr>
    <td valign="top"><b>[c5]</b></td>
-    <td>L.Negrini, <u>V. Arceri</u>, P. Ferrara, A. Cortesi <i>Twinning Automata and Regular Expressions for String Static Analysis</i>, in Proceedings of the 22nd International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2021, Online, January 17-22, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-67067-2_13">[link]</a> <a href="papers/vmcai2021.pdf">[pdf]</a> </td>
+    <td>L.Negrini, <u>V. Arceri</u>, P. Ferrara, A. Cortesi, <i>Twinning Automata and Regular Expressions for String Static Analysis</i>, in Proceedings of the 22nd International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2021, Online, January 17-22, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-67067-2_13">[link]</a> <a href="papers/vmcai2021.pdf">[pdf]</a> </td>
   </tr>
 </table>
 
@@ -120,11 +120,11 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 <table>
 	<tr>
     <td valign="top"><b>[j2]</b></td>
-    <td><u>V. Arceri</u>, I. Mastroeni, S. Xu <i>Static Analysis for ECMAScript String Manipulation Programs</i>, in Applied Science, SI: Static Analysis Techniques: Recent Advances and New Horizons, 2020 <a href="https://www.mdpi.com/2076-3417/10/10/3525">[link]</a></td>
+    <td><u>V. Arceri</u>, I. Mastroeni, S. Xu, <i>Static Analysis for ECMAScript String Manipulation Programs</i>, in Applied Science, SI: Static Analysis Techniques: Recent Advances and New Horizons, 2020 <a href="https://www.mdpi.com/2076-3417/10/10/3525">[link]</a></td>
   </tr>
  	<tr>
     <td valign="top"><b>[c4]</b></td>
-    <td><u>V. Arceri</u>, I. Mastroeni <i>A Sound Abstract Interpreter for Dynamic Code</i>, in Proceedings of the 35th ACM/SIGAPP Symposium On Applied Computing, SAC 2020, Brno, Czech Republic March 30 - April 3, 2020 <a href="https://dl.acm.org/doi/abs/10.1145/3341105.3373964">[link]</a> <a href="papers/sac2020.pdf">[pdf]</a> </td>
+    <td><u>V. Arceri</u>, I. Mastroeni<i>, A Sound Abstract Interpreter for Dynamic Code</i>, in Proceedings of the 35th ACM/SIGAPP Symposium On Applied Computing, SAC 2020, Brno, Czech Republic March 30 - April 3, 2020 <a href="https://dl.acm.org/doi/abs/10.1145/3341105.3373964">[link]</a> <a href="papers/sac2020.pdf">[pdf]</a> </td>
   </tr>
 </table>
 
@@ -133,17 +133,17 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 <table>
  	<tr>
     <td valign="top"><b>[c3]</b></td>
-    <td><u>V. Arceri</u>, M. Pasqua, I. Mastroeni <i>An Abstract Domain for Objects in Dynamic Programming languages</i>, in informal Proceedings of the 8th International Workshop on Numerical and Symbolic Abstract Domains, NSAD 2019, Porto, Portugal, October 8, 2019 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-54997-8_9">[link]</a> <a href="papers/nsad2019.pdf">[pdf]</a></td>
+    <td><u>V. Arceri</u>, M. Pasqua, I. Mastroeni, <i>An Abstract Domain for Objects in Dynamic Programming languages</i>, in informal Proceedings of the 8th International Workshop on Numerical and Symbolic Abstract Domains, NSAD 2019, Porto, Portugal, October 8, 2019 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-54997-8_9">[link]</a> <a href="papers/nsad2019.pdf">[pdf]</a></td>
   </tr>
 
   <tr>
     <td valign="top"><b>[c2]</b></td>
-    <td><u>V. Arceri</u>, M. Olliaro, A. Cortesi, I. Mastroeni <i>Completeness of Abstract Domains for String Analysis of JavaScript Programs</i>, in Proceedings of 16th International Colloquium of Theoretical Aspects of Computing, ICTAC 2019, Hammamet, Tunisia, October 31 - November 4, 2019 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-32505-3_15">[link]</a> <a href="papers/ictac2019.pdf">[pdf]</a></td>
+    <td><u>V. Arceri</u>, M. Olliaro, A. Cortesi, I. Mastroeni, <i>Completeness of Abstract Domains for String Analysis of JavaScript Programs</i>, in Proceedings of 16th International Colloquium of Theoretical Aspects of Computing, ICTAC 2019, Hammamet, Tunisia, October 31 - November 4, 2019 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-32505-3_15">[link]</a> <a href="papers/ictac2019.pdf">[pdf]</a></td>
   </tr>
 
   <tr>
     <td valign="top"><b>[c1]</b></td>
-    <td><u>V. Arceri</u>, I. Mastroeni , <i>Static Program Analysis for String Manipulation Languages</i>, in Proceedings of 7th International Workshop on Verification and Program Transformation, VPT@Programming 2019, Genova, Italy, April 2, 2019 <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?VPT2019.5.pdf">[link]</a> <a href="papers/vpt2019.pdf">[pdf]</a></td>
+    <td><u>V. Arceri</u>, I. Mastroeni, <i>Static Program Analysis for String Manipulation Languages</i>, in Proceedings of 7th International Workshop on Verification and Program Transformation, VPT@Programming 2019, Genova, Italy, April 2, 2019 <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?VPT2019.5.pdf">[link]</a> <a href="papers/vpt2019.pdf">[pdf]</a></td>
   </tr>
 </table>
 
