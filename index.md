@@ -28,6 +28,14 @@ My main research interests include static program analysis, string analysis and 
 <table>
 
   <tr>
+   <td valign="top"><b>[c14]</b></td>
+    <td><u>V. Arceri</u>, G. Dolcetti, E. Zaffanella, <i>Information Flow Analysis for Detecting Non-Determinism in Blockchain</i>, In Proceedings of the 30th Static Analysis Symposium, SAS 2023, Cascais, Portugal, October 22 - 24, 2023. <a href="https://link.springer.com/chapter/10.1007/978-3-031-44245-2_5">[link]</a>
+      <a href="papers/sas2023.pdf">[pdf]</a></td>
+  </tr>
+
+
+
+  <tr>
    <td valign="top"><b>[bc3]</b></td>
     <td>L. Negrini, <u>V. Arceri</u>, P. Ferrara, A. Cortesi, <i>LiSA: A Generic Framework for Multilanguage Static Analysis</i>, In Challenges of Software Verification. Intelligent Systems Reference Library, vol. 238. Springer, Singapore, 2023. <a href="https://link.springer.com/chapter/10.1007/978-981-19-9601-6_2">[link]</a>
     </td>
