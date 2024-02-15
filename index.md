@@ -24,6 +24,23 @@ My main research interests include static program analysis, string analysis and 
 
 ## <a name="publications"></a>Publications
 
+### 2024
+<table>
+<tr>
+   <td valign="top"><b>[j6]</b></td>
+    <td>L. Negrini <u>V. Arceri</u>, A. Cortesi, P. Ferrara<i>
+Tarsis: An effective automata-based abstract domain for stringanalysis</i>, In Journal of Sotware: Evolution and Process. Wiley. 2024.<a href="https://doi.org/10.1002/smr.2647">[link]</a>
+      <a href="papers/jsem.pdf">[pdf]</a></td>
+  </tr>
+
+<tr>
+   <td valign="top"><b>[c15]</b></td>
+    <td>G. Boldini, A. Diana, <u>V. Arceri</u>, V. Bonnici, R. Bagnara <i>
+A Machine Learning Approach for Source Code Similarity via Graph-Focused Features</i>, In Proceedings of 9th International Conference, LOD 2023, Grasmere, UK, September 22–26, 2023. <a href="https://link.springer.com/book/10.1007/978-3-031-53969-5">[link]</a>
+      <a href="papers/lod.pdf">[pdf]</a></td>
+  </tr>
+</table>
+
 ### 2023
 <table>
 
