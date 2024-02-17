@@ -29,7 +29,7 @@ My main research interests include static program analysis, string analysis and 
 <tr>
    <td valign="top"><b>[j6]</b></td>
     <td>L. Negrini <u>V. Arceri</u>, A. Cortesi, P. Ferrara<i>
-Tarsis: An effective automata-based abstract domain for string analysis</i>, In Journal of Sotware: Evolution and Process. Wiley. 2024.<a href="https://doi.org/10.1002/smr.2647">[link]</a>
+Tarsis: An effective automata-based abstract domain for string analysis</i>, In Journal of Software: Evolution and Process. Wiley. 2024.<a href="https://doi.org/10.1002/smr.2647">[link]</a>
       <a href="papers/jsem.pdf">[pdf]</a></td>
   </tr>
 
