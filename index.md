@@ -46,8 +46,6 @@ A Machine Learning Approach for Source Code Similarity via Graph-Focused Feature
 Design and implementation of static analyses for Tezos smart contracts</i>, In Distrib. Ledger Technol., 2024. <a href="https://dl.acm.org/doi/10.1145/3643567">[link]</a>
       <a href="papers/dlt.pdf">[pdf]</a></td>
   </tr>
-
-  . . , jan 2024
 </table>
 
 ### 2023
