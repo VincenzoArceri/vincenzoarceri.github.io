@@ -2,16 +2,19 @@
 layout: default
 ---
 
-I am an Assistant Professor (non-tenure) in the Department of Mathematical, Physical, and Computer Sciences at the University of Parma, dealing with static analysis of Go language for blockchain applications, relational string analyses, and static analysis for dynamic languages.
+I am an Assistant Professor (non-tenure) in the <a href="https://smfi.unipr.it/en">Department of Mathematical, Physical, and Computer Sciences</a> at the University of Parma. My main research interests include static program analysis, abstract interpretation, string analysis and verification, analysis of smart contracts, and, more in general, formal methods for program security.
 
-## <a name="cv"></a>Short Bio
-I have a Bachelor Degree in Computer Science (July 2014) and a Master Degree in Computer Science and Engineering – Computer Systems Security curriculum – (July 2016), both issued by the University of Verona. I was an UROP Student at the Imperial College London (Summer 2016), under the supervision of Prof. Sergio Maffeis. I joined the University of Verona in October 2016 as PhD student in Computer Science, under the supervision of Prof. Isabella Mastroeni and I got the PhD in May 2020, defending my PhD thesis titled “Taming Strings in Dynamic Languages – An Abstract Interpretation-based Static Analysis Approach”. From September 2019 to September 2021 I was a postdoctoral researcher at the Ca' Foscari University of Venice in the <a href="https://ssv.dais.unive.it/">Software and System Verification research group</a>. 
-Currently, I am an Assistant Professor (non-tenure) in the Department of Mathematical, Physical, and Computer Sciences at the University of Parma, dealing with static analysis of Go language for blockchain applications, relational string analyses, and static analysis for dynamic languages.
 
-My main research interests include static program analysis, string analysis and verification (in particular for dynamic languages), abstract interpretation and, more in general, formal methods for security programs.
+Part of the <a href="https://sml.cybersec.fun/">Security and Machine Learning</a> research lab @ Department of Computing, Imperial College London
 
+Part of the <a href="https://ssv.dais.unive.it/">Software and System Verification</a> research lab @ University Ca' Foscari of Venice
 
 <b>I am always looking for strong and motivated students to work with me on static program analysis and verification. Ping me if interested!</b>
+
+## <a name="cv"></a>Short Bio
+I have a Bachelor Degree in Computer Science (July 2014) and a Master Degree in Computer Science and Engineering – Computer Systems Security curriculum – (July 2016), both issued by the University of Verona. I was an UROP Student at the Imperial College London (Summer 2016), under the supervision of Prof. Sergio Maffeis. I joined the University of Verona in October 2016 as PhD student in Computer Science, under the supervision of Prof. Isabella Mastroeni and I got the PhD in May 2020, defending my PhD thesis titled “Taming Strings in Dynamic Languages – An Abstract Interpretation-based Static Analysis Approach”. From September 2019 to September 2021 I was a postdoctoral researcher at the Ca' Foscari University of Venice. 
+Currently, I am an Assistant Professor (non-tenure) in the Department of Mathematical, Physical, and Computer Sciences at the University of Parma.
+
 
 ## <a name="teaching"></a>Teaching
 <table>
