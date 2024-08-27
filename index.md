@@ -331,7 +331,12 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 
 ## <a name="projects"></a>Projects
 
-### LiSA
+### EVMLiSA: an abstract interpretation‐based static analyzer for EVM bytecode
+EVMLiSA is a static analyzer based on abstract interpretation for EVM bytecode of smart contracts deployed on Ethereum blockchain and built upon LiSA. Given a EVM bytecode smart contract, EVMLiSA builds a sound and precise control‐flow graph of the smart contract. 
+
+EVMLiSA is maintained by University of Parma, Italy, and it is available on <a href="https://github.com/lisa-analyzer/evm-lisa">Github</a>.
+
+### LiSA: a <u>Li</u>brary for <u>S</u>tatic <u>A</u>nalysis
 LiSA (Library for Static Analysis) eases the creation and implementation of static analyzers based on the Abstract Interpretation theory. LiSA provides an analysis engine that works on a generic and extensible control flow graph representation of the program to analyze. Abstract interpreters in LiSA are built for analyzing such representation, providing a unique analysis infrastructure for all the analyzers that will rely on it.
 
 Building an analyzer upon LiSA boils down to writing a parser for the language that one aims to analyze, translating the source code or the compiled code towards the control flow graph representation of LiSA. Then, simple checks iterating over the results provided by the semantic analyses of LiSA can be easily defined to translate semantic information into warnings that can be of value for the final user.
