@@ -100,7 +100,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 
 <tr>
   <td valign="top"><b>[c16]</b></td>
-    <td>L. Negrini, <u>V. Arceri</u>, L. Olivieri, A. Cortesi, P. Ferrara. <i>Teaching through Practice: Advanced Static Analysis with LiSA</i>, To appeaer in Proceedings of the 6th Formal Methods Teaching Workshop, FMTea 2024, Milan, Italy, September 10, 2024. <a href="https://fmtea.github.io/">[link]</a>
+    <td>L. Negrini, <u>V. Arceri</u>, L. Olivieri, A. Cortesi, P. Ferrara. <i>Teaching through Practice: Advanced Static Analysis with LiSA</i>, To appeaer in Proceedings of the 6th Formal Methods Teaching Workshop, FMTea 2024, Milan, Italy, September 10, 2024. <a href="https://fmtea.github.io/">[link]</a> <a href="papers/fmtea2024.pdf">[pdf]</a>
       </td>
   </tr>
 
