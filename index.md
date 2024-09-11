@@ -93,14 +93,14 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 <tr>
   <td valign="top"><b>[c17]</b></td>
     <td><u>V. Arceri</u>, S. M. Merenda, L. Negrini, L. Olivieri, G. Dolcetti, E. Zaffanella.
-      <i>Towards a Sound Construction of EVM Bytecode Control‐ flow Graphs</i>, To appear in Proceedings of the 26th International Workshop on Formal Techniques for Java‐like Programs, FTfJP 2024, September 20, 2024. <a href="https://conf.researchr.org/home/issta-ecoop-2024/FTfJP-2024#event-overview">[link]</a>
+      <i>Towards a Sound Construction of EVM Bytecode Control‐ flow Graphs</i>, To appear in Proceedings of the 26th International Workshop on Formal Techniques for Java‐like Programs, FTfJP 2024, September 20, 2024. <a href="https://conf.researchr.org/home/issta-ecoop-2024/FTfJP-2024#event-overview">[link]</a> <a href="papers/ftfjp2024.pdf">[pdf]</a>
       </td>
   </tr>
 
 
 <tr>
   <td valign="top"><b>[c16]</b></td>
-    <td>L. Negrini, <u>V. Arceri</u>, L. Olivieri, A. Cortesi, P. Ferrara. <i>Teaching through Practice: Advanced Static Analysis with LiSA</i>, To appeaer in Proceedings of the 6th Formal Methods Teaching Workshop, FMTea 2024, Milan, Italy, September 10, 2024. <a href="https://fmtea.github.io/">[link]</a> <a href="papers/fmtea2024.pdf">[pdf]</a>
+    <td>L. Negrini, <u>V. Arceri</u>, L. Olivieri, A. Cortesi, P. Ferrara. <i>Teaching through Practice: Advanced Static Analysis with LiSA</i>, In Proceedings of the 6th Formal Methods Teaching Workshop, FMTea 2024, Milan, Italy, September 10, 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-71379-8_3">[link]</a> <a href="papers/fmtea2024.pdf">[pdf]</a>
       </td>
   </tr>
 
