@@ -76,6 +76,13 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 ### 2024
 <table>
 
+    <tr>
+  <td valign="top"><b>[j10]</b></td>
+    <td>L. Olivieri, <u>V. Arceri</u>, B. Chachar, L. Negrini, F. Tagliaferro, F. Spoto, P. Ferrara, A. Cortesi.
+      <i>General-Purpose Languages for Blockchain Smart Contracts Development: A Comprehensive Study</i>, In IEEE Access. 2024. <a href="https://ieeexplore.ieee.org/document/10749761">[link]</a> <a href="papers/ieeeaccess2.pdf">[pdf]</a>
+      </td>
+  </tr>
+
   <tr>
   <td valign="top"><b>[j10]</b></td>
     <td>P. Ferrara, <u>V. Arceri</u>, A. Cortesi.
