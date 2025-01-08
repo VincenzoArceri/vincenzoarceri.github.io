@@ -75,8 +75,8 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 ### 2025
 <table>
 
-    <tr>
-  <td valign="top"><b>[j11]</b></td>
+  <tr>
+  <td valign="top"><b>[j12]</b></td>
     <td> <u>V. Arceri</u>, L. Negrini, L. Olivieri, P. Ferrara.
       <i>Challenges of Software Verification</i>, In International Journal on Software Tools for Technology Transfer, 2025.  <a href="https://link.springer.com/article/10.1007/s10009-024-00778-7">[link]</a> <a href="papers/csv2024.pdf">[pdf]</a>
       </td>
