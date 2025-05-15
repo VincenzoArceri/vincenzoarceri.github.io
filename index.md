@@ -76,14 +76,14 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 <table>
 
     <tr>
-  <td valign="top"><b>[j12]</b></td>
+  <td valign="top"><b>[c19]</b></td>
     <td> L. Olivieri, L. Negrini, <u>V. Arceri</u>, P. Ferrara, A. Cortesi, F. Spoto.
       <i>Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts</i>, In Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing, SAC 2025.  <a href="https://dl.acm.org/doi/10.1145/3672608.3707721">[link]</a> <a href="papers/sac2025b.pdf">[pdf]</a>
       </td>
   </tr>
 
   <tr>
-  <td valign="top"><b>[j12]</b></td>
+  <td valign="top"><b>[c18]</b></td>
     <td> L. Olivieri, L. Negrini, <u>V. Arceri</u>, P. Ferrara, A. Cortesi.
       <i>Static Detection of Untrusted Cross-Contract Invocations in Go Smart Contracts</i>, In Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing, SAC 2025.  <a href="https://dl.acm.org/doi/10.1145/3672608.3707728">[link]</a> <a href="papers/sac2025b.pdf">[pdf]</a>
       </td>
