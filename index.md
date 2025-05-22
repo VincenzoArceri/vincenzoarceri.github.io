@@ -63,6 +63,12 @@ Part of the <a href="https://sml.cybersec.fun/">Security and Machine Learning</a
 
 Part of the <a href="https://ssv.dais.unive.it/">Software and System Verification</a> research lab @ University Ca' Foscari of Venice
 
+
+<a href="https://absint.zulipchat.com" target="_blank" style="text-decoration: none;">
+  <img src="img/zulip.png" alt="Zulip Chat" style="height:30px; vertical-align:middle; border:0;">
+  <span style="vertical-align:middle;">Join the Abstract Interpretation Zulip chat!</span>
+</a>
+
 ## <a name="teaching"></a>Teaching
 <table>
   <tr>
