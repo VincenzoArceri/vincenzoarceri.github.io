@@ -320,6 +320,14 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 
 ## <a name="talks"></a>Talks
 
+### 2023
+<table>
+  <tr>
+    <td>Dec</td>
+    <td>Invited seminar, Taming strings in dynamic languages: An abstract interpretation‑based static analysis approach, University of Verona, Italy</td>
+  </tr>
+</table>
+
 ### 2022
 
 <table>
@@ -335,6 +343,10 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 	<tr>
     <td>Jun</td>
     <td>Static Analysis for Dummies: Experiencing LiSA, SOAP@PLDI 2021 (online)</td>
+  </tr>
+  <tr>
+    <td>Dec</td>
+    <td>Invited seminar, Introduction to LiSA and tutorial on of non‑relational abstract domains implementation, University of Verona, Italy</td>
   </tr>
 </table>
 
