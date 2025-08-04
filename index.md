@@ -71,9 +71,18 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 
 ## <a name="teaching"></a>Teaching
 <table>
+    <tr>
+   <td valign="top"><b>2025 - now</b></td>
+    <td>Static Analysis and Software Verification within the Computer Science M.Sc. at University of Parma (9 CFU, 72 hours)</td>
+  </tr>
   <tr>
-   <td valign="top"><b>2021 - now</b></td>
-    <td>Fundamentals of Programming within the Computer Science B.Sc. in University of Parma (15CFU, 120 hours)</td>
+   <td valign="top"><b>2025 - now</b></td>
+    <td>Fundamentals of Programming (mod. A) within the Computer Science B.Sc. at University of Parma (6 CFU, 48 hours)</td>
+  </tr>
+
+  <tr>
+   <td valign="top"><b>2021 - 2025</b></td>
+    <td>Fundamentals of Programming within the Computer Science B.Sc. at University of Parma (15 CFU, 120 hours)</td>
   </tr>
 </table>
 
