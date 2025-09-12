@@ -91,9 +91,23 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 <table>
 
   <tr>
-  <td valign="top"><b>[c20]</b></td>
+  <td valign="top"><b>[j13]</b></td>
+    <td> V. Arceri, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
+      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2025<a href="papers/bcra2025.pdf">[pdf]</a>
+      </td>
+  </tr>
+
+  <tr>
+  <td valign="top"><b>[c21]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi.
       <i>Introducing Pyra: A High-level Linter for Data Science Software</i>, To appear in Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML-PKDD 2025. <a href="papers/ecmlpkdd2025.pdf">[pdf]</a>
+      </td>
+  </tr>
+
+  <tr>
+  <td valign="top"><b>[c20]</b></td>
+    <td> G. Dolcetti, <u>V. Arceri</u>, A. Cortesi, E. Zaffanella.
+      <i>On the Verification of ML Systems and Models</i>, To appear in proceedings of the 7th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis, OVERLAY 2025 @ ECAI 2025 <a href="papers/overlay2025.pdf">[pdf]</a>
       </td>
   </tr>
 
