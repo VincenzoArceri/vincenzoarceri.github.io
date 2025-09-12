@@ -93,7 +93,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
   <tr>
   <td valign="top"><b>[j13]</b></td>
     <td> V. Arceri, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
-      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2025<a href="papers/bcra2025.pdf">[pdf]</a>
+      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2025 <a href="papers/bcra2025.pdf">[pdf]</a>
       </td>
   </tr>
 
