@@ -93,14 +93,13 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
   <tr>
   <td valign="top"><b>[j13]</b></td>
     <td> V. Arceri, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
-      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2025 <a href="papers/bcra2025.pdf">[pdf]</a>
+      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2025 <a href="https://www.sciencedirect.com/science/article/pii/S2096720925001113">[link]</a> <a href="papers/bcra2025.pdf">[pdf]</a>
       </td>
   </tr>
-
   <tr>
   <td valign="top"><b>[c21]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi.
-      <i>Introducing Pyra: A High-level Linter for Data Science Software</i>, To appear in Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML-PKDD 2025. <a href="papers/ecmlpkdd2025.pdf">[pdf]</a>
+      <i>Introducing Pyra: A High-level Linter for Data Science Software</i>, In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML-PKDD 2025. <a href="https://link.springer.com/chapter/10.1007/978-3-032-06129-4_29">[link]</a> <a href="papers/ecmlpkdd2025.pdf">[pdf]</a>
       </td>
   </tr>
 
@@ -349,6 +348,19 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 
 
 ## <a name="talks"></a>Talks
+
+### 2025
+<table>
+  <tr>
+    <td>Oct</td>
+    <td>Invited speaker, "A journey through LiSA and its frontends", Dagstuhl Seminar 25421, Sound Static Program Analysis in Modern Software Engineering, Dagstuhl, Germany</td>
+  </tr>
+
+  <tr>
+    <td>Jul</td>
+    <td>Invited seminar, "Improving LLM‑generated code by static analysis", Code Metal Inc., Boston, USA</td>
+  </tr>
+</table>
 
 ### 2023
 <table>
