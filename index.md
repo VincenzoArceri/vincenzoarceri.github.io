@@ -89,6 +89,12 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 ## <a name="publications"></a>Publications
 ### 2025
 <table>
+  <tr>
+  <td valign="top"><b>[j14]</b></td>
+    <td> V. Arceri, F. Bianchi, G. Dolcetti, E. Zaffanella
+      <i>Faster numeric static analyses with unconstrained variable oracles</i>PeerJ Computer Science 11:e3390, 2025 <a href="https://peerj.com/articles/cs-3390/#">[link]</a> <a href="papers/peerj2025.pdf">[pdf]</a>
+      </td>
+  </tr>
 
   <tr>
   <td valign="top"><b>[j13]</b></td>
