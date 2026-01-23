@@ -87,18 +87,38 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 </table>
 
 ## <a name="publications"></a>Publications
+
+### 2026
+<table>
+  <tr>
+  <td valign="top"><b>[j15]</b></td>
+    <td> <u>V. Arceri</u>, L. Negrini, G. Zanatta, F. Bianchi, T. Lisovenko, L. Olivieri, P. Ferrara. 
+      <i>JLiSA: the Java frontend of the Library for Static Analysis (Competition Contribution)</i>, To appear in proceedings of the 
+  32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems, 2026
+      </td>
+  </tr>
+
+  <tr>
+  <td valign="top"><b>[j15]</b></td>
+    <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi. 
+      <i>Pyra: A High‑level Linter for Data Science Software</i>, To appear
+  in Knowledge‑Based Systems, 2026
+      </td>
+  </tr>
+
+</table>
 ### 2025
 <table>
   <tr>
   <td valign="top"><b>[j14]</b></td>
-    <td> V. Arceri, F. Bianchi, G. Dolcetti, E. Zaffanella
+    <td> <u>V. Arceri</u>, F. Bianchi, G. Dolcetti, E. Zaffanella
       <i>Faster numeric static analyses with unconstrained variable oracles</i>PeerJ Computer Science 11:e3390, 2025 <a href="https://peerj.com/articles/cs-3390/#">[link]</a> <a href="papers/peerj2025.pdf">[pdf]</a>
       </td>
   </tr>
 
   <tr>
   <td valign="top"><b>[j13]</b></td>
-    <td> V. Arceri, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
+    <td> <u>V. Arceri</u>, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
       <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2025 <a href="https://www.sciencedirect.com/science/article/pii/S2096720925001113">[link]</a> <a href="papers/bcra2025.pdf">[pdf]</a>
       </td>
   </tr>
