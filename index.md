@@ -91,7 +91,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 ### 2026
 <table>
   <tr>
-  <td valign="top"><b>[j15]</b></td>
+  <td valign="top"><b>[c22]</b></td>
     <td> <u>V. Arceri</u>, L. Negrini, G. Zanatta, F. Bianchi, T. Lisovenko, L. Olivieri, P. Ferrara. 
       <i>JLiSA: the Java frontend of the Library for Static Analysis (Competition Contribution)</i>, To appear in proceedings of the 
   32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems, 2026
