@@ -90,6 +90,14 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 
 ### 2026
 <table>
+
+  <tr>
+  <td valign="top"><b>[j16]</b></td>
+    <td> G. Dolcetti, <u>V. Arceri</u>, E. Iotti, S. Maffeis, A. Cortesi, E. Zaffanella
+      <i>Helping LLMs improve code generation using feedback from testing and static analysis</i>, Discover Artificial Intelligence, 2026, <a href="https://link.springer.com/article/10.1007/s44163-026-01009-5">[link]</a>
+      </td>
+  </tr>
+
   <tr>
   <td valign="top"><b>[c22]</b></td>
     <td> <u>V. Arceri</u>, L. Negrini, G. Zanatta, F. Bianchi, T. Lisovenko, L. Olivieri, P. Ferrara. 
@@ -101,8 +109,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
   <tr>
   <td valign="top"><b>[j15]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi. 
-      <i>Pyra: A High‑level Linter for Data Science Software</i>, To appear
-  in Knowledge‑Based Systems, 2026
+      <i>Pyra: A High‑level Linter for Data Science Software</i>, Knowledge-Based Systems, Volume 337, 2026, <a href="https://www.sciencedirect.com/science/article/pii/S0950705126001553">[link]</a> <a href="papers/peerj2025.pdf">[pdf]</a> 
       </td>
   </tr>
 
@@ -112,7 +119,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
   <tr>
   <td valign="top"><b>[j14]</b></td>
     <td> <u>V. Arceri</u>, F. Bianchi, G. Dolcetti, E. Zaffanella
-      <i>Faster numeric static analyses with unconstrained variable oracles</i>PeerJ Computer Science 11:e3390, 2025 <a href="https://peerj.com/articles/cs-3390/#">[link]</a> <a href="papers/peerj2025.pdf">[pdf]</a>
+      <i>Faster numeric static analyses with unconstrained variable oracles</i>PeerJ Computer Science 11:e3390, 2025 <a href="https://peerj.com/articles/cs-3390/#">[link]</a> <a href="papers/knosys.pdf">[pdf]</a>
       </td>
   </tr>
 
