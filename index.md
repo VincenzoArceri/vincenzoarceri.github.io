@@ -91,8 +91,26 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 ### 2026
 <table>
 
+   <tr>
+  <td valign="top"><b>[c23]</b></td>
+    <td> L. Olivieri, L. Negrini, <u>V. Arceri</u>u>, P. Ferrara, F. Spoto, A. Cortesi.
+      <i>GoLiSA: An Advanced Static Analysis Tool for
+Detecting Potential Risks and Vulnerabilities in Hyperledger Fabric Smart
+Contracts</i>, To appear in Proceedings of the 41st IEEE/ACM International Conference on
+Automated Software Engineering, ASE 2026<a href="https://doi.org/10.1145/3832783.
+3834644">[link]</a>
+      </td>
+  </tr>
+
   <tr>
   <td valign="top"><b>[j16]</b></td>
+    <td> <u>V. Arceri</u>, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
+      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S2096720925001113">[link]</a> <a href="papers/bcra2025.pdf">[pdf]</a>
+      </td>
+  </tr>
+
+  <tr>
+  <td valign="top"><b>[j15]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, E. Iotti, S. Maffeis, A. Cortesi, E. Zaffanella
       <i>Helping LLMs improve code generation using feedback from testing and static analysis</i>, Discover Artificial Intelligence, 2026, <a href="https://link.springer.com/article/10.1007/s44163-026-01009-5">[link]</a>
       </td>
@@ -107,7 +125,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
   </tr>
 
   <tr>
-  <td valign="top"><b>[j15]</b></td>
+  <td valign="top"><b>[j14]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi. 
       <i>Pyra: A High‑level Linter for Data Science Software</i>, Knowledge-Based Systems, Volume 337, 2026, <a href="https://www.sciencedirect.com/science/article/pii/S0950705126001553">[link]</a> <a href="papers/peerj2025.pdf">[pdf]</a> 
       </td>
@@ -117,18 +135,13 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 ### 2025
 <table>
   <tr>
-  <td valign="top"><b>[j14]</b></td>
+  <td valign="top"><b>[j13]</b></td>
     <td> <u>V. Arceri</u>, F. Bianchi, G. Dolcetti, E. Zaffanella
       <i>Faster numeric static analyses with unconstrained variable oracles</i>PeerJ Computer Science 11:e3390, 2025 <a href="https://peerj.com/articles/cs-3390/#">[link]</a> <a href="papers/knosys.pdf">[pdf]</a>
       </td>
   </tr>
 
-  <tr>
-  <td valign="top"><b>[j13]</b></td>
-    <td> <u>V. Arceri</u>, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
-      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2025 <a href="https://www.sciencedirect.com/science/article/pii/S2096720925001113">[link]</a> <a href="papers/bcra2025.pdf">[pdf]</a>
-      </td>
-  </tr>
+
   <tr>
   <td valign="top"><b>[c21]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi.
