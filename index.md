@@ -395,6 +395,14 @@ State Of the Art in Program Analysis, SOAP 2023, Orlando, FL, USA, June 17, 2023
 
 ## <a name="talks"></a>Talks
 
+### 2026
+<table>
+  <tr>
+    <td>Jul</td>
+    <td>Invited speaker, ”A journey through LiSA and its frontends”, HelmutFest, Technical University of Munich, Germany, retirement celebration of Helmut Seidl</td>
+  </tr>
+</table>
+
 ### 2025
 <table>
   <tr>
