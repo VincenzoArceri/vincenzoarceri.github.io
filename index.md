@@ -93,11 +93,11 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 
    <tr>
   <td valign="top"><b>[c23]</b></td>
-    <td> L. Olivieri, L. Negrini, <u>V. Arceri</u>u>, P. Ferrara, F. Spoto, A. Cortesi.
+    <td> L. Olivieri, L. Negrini, <u>V. Arceri</u>, P. Ferrara, F. Spoto, A. Cortesi.
       <i>GoLiSA: An Advanced Static Analysis Tool for
 Detecting Potential Risks and Vulnerabilities in Hyperledger Fabric Smart
 Contracts</i>, To appear in Proceedings of the 41st IEEE/ACM International Conference on
-Automated Software Engineering, ASE 2026<a href="https://doi.org/10.1145/3832783.
+Automated Software Engineering, ASE 2026 <a href="https://doi.org/10.1145/3832783.
 3834644">[link]</a>
       </td>
   </tr>
@@ -112,22 +112,22 @@ Automated Software Engineering, ASE 2026<a href="https://doi.org/10.1145/3832783
   <tr>
   <td valign="top"><b>[j15]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, E. Iotti, S. Maffeis, A. Cortesi, E. Zaffanella
-      <i>Helping LLMs improve code generation using feedback from testing and static analysis</i>, Discover Artificial Intelligence, 2026, <a href="https://link.springer.com/article/10.1007/s44163-026-01009-5">[link]</a>
+      <i>Helping LLMs improve code generation using feedback from testing and static analysis</i>, Discover Artificial Intelligence, 2026 <a href="https://link.springer.com/article/10.1007/s44163-026-01009-5">[link]</a>
       </td>
   </tr>
 
   <tr>
   <td valign="top"><b>[c22]</b></td>
     <td> <u>V. Arceri</u>, L. Negrini, G. Zanatta, F. Bianchi, T. Lisovenko, L. Olivieri, P. Ferrara. 
-      <i>JLiSA: the Java frontend of the Library for Static Analysis (Competition Contribution)</i>, To appear in proceedings of the 
-  32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems, TACAS 2026
+      <i>JLiSA: the Java frontend of the Library for Static Analysis (Competition Contribution)</i>, In proceedings of the 
+  32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems, TACAS 2026 <a href="https://link.springer.com/chapter/10.1007/978-3-032-22749-2_30">[link]</a>
       </td>
   </tr>
 
   <tr>
   <td valign="top"><b>[j14]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi. 
-      <i>Pyra: A High‑level Linter for Data Science Software</i>, Knowledge-Based Systems, Volume 337, 2026, <a href="https://www.sciencedirect.com/science/article/pii/S0950705126001553">[link]</a> <a href="papers/peerj2025.pdf">[pdf]</a> 
+      <i>Pyra: A High‑level Linter for Data Science Software</i>, Knowledge-Based Systems, Volume 337, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0950705126001553">[link]</a> <a href="papers/peerj2025.pdf">[pdf]</a> 
       </td>
   </tr>
 
@@ -145,7 +145,7 @@ Automated Software Engineering, ASE 2026<a href="https://doi.org/10.1145/3832783
   <tr>
   <td valign="top"><b>[c21]</b></td>
     <td> G. Dolcetti, <u>V. Arceri</u>, A. Mensi, E. Zaffanella, C. Urban, A. Cortesi.
-      <i>Introducing Pyra: A High-level Linter for Data Science Software</i>, In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML-PKDD 2025. <a href="https://link.springer.com/chapter/10.1007/978-3-032-06129-4_29">[link]</a> <a href="papers/ecmlpkdd2025.pdf">[pdf]</a>
+      <i>Introducing Pyra: A High-level Linter for Data Science Software</i>, In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML-PKDD 2025 <a href="https://link.springer.com/chapter/10.1007/978-3-032-06129-4_29">[link]</a> <a href="papers/ecmlpkdd2025.pdf">[pdf]</a>
       </td>
   </tr>
 
