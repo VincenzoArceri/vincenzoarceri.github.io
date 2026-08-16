@@ -105,7 +105,7 @@ Automated Software Engineering, ASE 2026 <a href="https://doi.org/10.1145/383278
   <tr>
   <td valign="top"><b>[j16]</b></td>
     <td> <u>V. Arceri</u>, S. M. Merenda, L. Negrini, L. Olivieri, E. Zaffanella
-      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S2096720925001113">[link]</a> <a href="papers/bcra2025.pdf">[pdf]</a>
+      <i>EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode</i>, Blockchain: Research and Applications, Volume 7, Issue 4, 100384,2026 <a href="https://www.sciencedirect.com/science/article/pii/S2096720925001113">[link]</a> <a href="papers/bcra2025.pdf">[pdf]</a>
       </td>
   </tr>
 
