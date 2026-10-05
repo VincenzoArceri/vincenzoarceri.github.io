@@ -76,7 +76,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
     <td>Static Analysis and Software Verification within the Computer Science M.Sc. at University of Parma (9 CFU, 72 hours)</td>
   </tr>
   <tr>
-   <td valign="top"><b>2025 - now</b></td>
+   <td valign="top"><b>2025 - 2026</b></td>
     <td>Fundamentals of Programming (mod. A) within the Computer Science B.Sc. at University of Parma (6 CFU, 48 hours)</td>
   </tr>
 
@@ -90,6 +90,22 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
 
 ### 2026
 <table>
+
+  <tr>
+  <td valign="top"><b>[c25]</b></td>
+    <td> M. Di Agostino, F. Sihler, <u>V. Arceri</u>, O. Gerstl, M. Tichy.
+      <i>Towards Statically Reasoning about R Vectors
+</i>, In Proceedings of the 11th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domain, NSAD 2026 <a href="https://dl.acm.org/doi/10.1145/3840563.3843708">[link]</a><a href="papers/nsad2026r.pdf">[pdf]</a>
+      </td>
+  </tr>
+
+  <tr>
+  <td valign="top"><b>[c24]</b></td>
+    <td> G. Dolcetti, G. Zizzo, <u>V. Arceri</u>, S. Maffeis, A. Cortesi.
+      <i>Quantum Computing and Static Analysis: State of the Art and Research Opportunities
+</i>, In Proceedings of the 11th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domain, NSAD 2026 <a href="https://dl.acm.org/doi/10.1145/3840563.3843709">[link]</a><a href="papers/nsad2026q.pdf">[pdf]</a>
+      </td>
+  </tr>
 
    <tr>
   <td valign="top"><b>[c23]</b></td>
