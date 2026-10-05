@@ -95,7 +95,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
   <td valign="top"><b>[c25]</b></td>
     <td> M. Di Agostino, F. Sihler, <u>V. Arceri</u>, O. Gerstl, M. Tichy.
       <i>Towards Statically Reasoning about R Vectors
-</i>, In Proceedings of the 11th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domain, NSAD 2026 <a href="https://dl.acm.org/doi/10.1145/3840563.3843708">[link]</a><a href="papers/nsad2026r.pdf">[pdf]</a>
+</i>, In Proceedings of the 11th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domain, NSAD 2026 <a href="https://dl.acm.org/doi/10.1145/3840563.3843708">[link]</a> <a href="papers/nsad2026r.pdf">[pdf]</a>
       </td>
   </tr>
 
@@ -103,7 +103,7 @@ Part of the <a href="https://ssv.dais.unive.it/">Software and System Verificatio
   <td valign="top"><b>[c24]</b></td>
     <td> G. Dolcetti, G. Zizzo, <u>V. Arceri</u>, S. Maffeis, A. Cortesi.
       <i>Quantum Computing and Static Analysis: State of the Art and Research Opportunities
-</i>, In Proceedings of the 11th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domain, NSAD 2026 <a href="https://dl.acm.org/doi/10.1145/3840563.3843709">[link]</a><a href="papers/nsad2026q.pdf">[pdf]</a>
+</i>, In Proceedings of the 11th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domain, NSAD 2026 <a href="https://dl.acm.org/doi/10.1145/3840563.3843709">[link]</a> <a href="papers/nsad2026q.pdf">[pdf]</a>
       </td>
   </tr>
 
